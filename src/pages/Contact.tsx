@@ -62,13 +62,6 @@ const Contact = () => {
       action: "mailto:tanvihalankar312@gmail.com",
     },
     {
-      icon: <Phone className="h-6 w-6" />,
-      title: "Phone",
-      value: "+91 99204 68550",
-      description: "Call me for urgent matters",
-      action: "tel:+919920468550",
-    },
-    {
       icon: <MapPin className="h-6 w-6" />,
       title: "Location",
       value: "Mumbai, Maharashtra",
@@ -238,7 +231,7 @@ const Contact = () => {
                 </CardHeader>
                 <CardContent>
                   <form
-                    action="https://formspree.io/f/mjvowqeg"
+                    action="https://formspree.io/f/mnnzpkzd"
                     method="POST"
                     className="space-y-6"
                   >
